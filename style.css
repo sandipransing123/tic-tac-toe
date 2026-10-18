@@ -11,3 +11,13 @@ body {
 .container {
     height: 70vh;
 }
+
+.game {
+    height: 100px;
+    width: 60vmin;
+}
+
+.box {
+    height: 100px;
+    width: 18vmin;
+}
