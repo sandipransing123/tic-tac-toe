@@ -13,11 +13,16 @@ body {
 }
 
 .game {
-    height: 100px;
+    height: 60vmin;
     width: 60vmin;
 }
 
 .box {
-    height: 100px;
-    width: 18vmin;
-}
+    height: 60vmin;
+    width: 60vmin;
+} 
+
+
+
+
+
